@@ -19,11 +19,11 @@ uváděné formou seriálu. Vedle toho budou občas uváděna i zajímavá videa
 na která se rodiče jistě rádi podívají s dětmi
 3. Název webu: Malá noční četba
 4. Napiš 5 webových zdrojů: 
-  *   http://www.pohadky-na-dobrou-noc.cz/
-  *   http://brbla.net/pohadky/
-  *   http://www.bedtime.com/category/stories/fairy-tales/
-  *   http://www.abatar.cz/
-  *   https://www.mlp.cz/cz/projekty/on-line-projekty/ 
+  *   [pohádky na dobrou noc](http://www.pohadky-na-dobrou-noc.cz/)
+  *   [brbla](http://brbla.net/pohadky/)
+  *   [bedtime](http://www.bedtime.com/category/stories/fairy-tales/)
+  *   [abatar](http://www.abatar.cz/)
+  *   [mlp](https://www.mlp.cz/cz/projekty/on-line-projekty/) 
 5. Napiš 5 newebových zdrojů: 
   *   Kniha: Krása nesmírná - ruské lidové pohádky
   *   Kniha: 365 pohádek na dobrou noc
