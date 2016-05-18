@@ -5,7 +5,7 @@ title: Popelka ze Lhoty a Nemanic
 ![alt obrázek popelky]( https://github.com/450000/450000.github.io/blob/master/images/popelka-cinderella.jpg)
 
 
-##Otto Sutermeister
+##Otto Sutermeister##
 
 Kdysi dávno žila ve Lhotě a Nemanicích jedna dívenka, které brzy umřeli oba rodiče. Nezanechali jí nic než jedny překrásné sluneční šaty
 a závěť, o které ale žádný člověk nevěděl, kam se poděla. Tak si jednoho dne ty šaty sbalila do šátku a vydala se do světa, aby si našla
@@ -39,6 +39,5 @@ samou radostí a řekl: *„Máš tu u mne taky něco jako věno.“* S těmi sl
 jejích rodičů, kterým ji určili dědičkou velkého panství. Popelka radostně spěchala za ženichem a ten ji zavedl ke svým rodičům 
 a potom slavili svatbu, že svět krásnější neviděl. 
 
--Dostupné [zde](http://pohadky.org/index.php?co=pohadka&pohadka=634)
-
--Server[pohádky.org](www.pohadky.org)
+*Dostupné [zde](http://pohadky.org/index.php?co=pohadka&pohadka=634)
+*Server [pohádky.org](www.pohadky.org)
