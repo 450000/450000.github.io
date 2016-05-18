@@ -22,7 +22,7 @@ prosil. Nakonec odtamtud utekla, běžela k jedli, uložila tam svoje šaty a za
 mužík, který ji přátelsky pozdravil, a než se nadála, opět zmizel.
 
 Od toho času neměl ten urozený jinoch žádný klid, dokud neprosadil, že bude uspořádán další ples. Popelka si u panstva vyprosila opět
-svolení, aby tam mohla jít. *„Ano,“* řekla paní: *„jdi a dívej se, ale tancovat nesmíš.“* Tak to udělala jako poprvé, a když se objevila
+svolení, aby tam mohla jít. *„Ano,“* řekla paní: *„jdi a dívej se, ale tancovat nesmíš.“* Tak to udělala jako poprvé, a když se objevila
 na tanečním parketu, měl jinoch opět oči jen pro ni a prosil ji ještě naléhavěji než prve, aby s ním tancovala, a když se zdráhala, chtěl
 ji násilím políbit. Ale Popelka mu vyklouzla jako myška kočce a vrátila se do lesa k jedli, kde se opět objevil ten drobný mužík, který ji
 pozdravil ještě přátelštěji než minule.
