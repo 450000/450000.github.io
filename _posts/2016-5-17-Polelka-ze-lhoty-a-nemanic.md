@@ -2,7 +2,7 @@
 layout: post
 title: Popelka ze Lhoty a Nemanic
 ---
-![alt obrázek popelky]( https://github.com/450000/450000.github.io/blob/master/images/popelka-cinderella.jpg)
+![obrázek popelky]( https://github.com/450000/450000.github.io/blob/master/images/popelka-cinderella.jpg)
 
 
 ## Otto Sutermeister ##
@@ -39,6 +39,6 @@ samou radostí a řekl: *„Máš tu u mne taky něco jako věno.“* S těmi sl
 jejích rodičů, kterým ji určili dědičkou velkého panství. Popelka radostně spěchala za ženichem a ten ji zavedl ke svým rodičům 
 a potom slavili svatbu, že svět krásnější neviděl. 
 
-+Dostupné [zde](http://pohadky.org/index.php?co=pohadka&pohadka=634)<br/>
+Dostupné [zde](http://pohadky.org/index.php?co=pohadka&pohadka=634)<br/>
 
-+Server [pohádky.org](www.pohadky.org)
+Server [pohádky.org](www.pohadky.org)
