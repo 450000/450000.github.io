@@ -71,8 +71,9 @@ a nosila ji nyní ještě raději, že byla klíčem k jejímu velkému štěst�
 Rodiče i sestry o tomto šťastlivém osudu brzy zpravili a vzali je k sobě na zámek, aby tam po všechny časy vedli nádherný život. 
 
 
--Dostupné [zde]( http://pohadky.org/index.php?co=pohadka&pohadka=765)
--Server[pohádky.org](www.pohadky.org)
+*Dostupné [zde]( http://pohadky.org/index.php?co=pohadka&pohadka=765)<br/>
+
+*Server [pohádky.org](www.pohadky.org)
 
 
 
