@@ -2,7 +2,7 @@
 layout: post
 title: Popelka ze Lhoty a Nemanic
 ---
-![obrázek popelky]( https://github.com/450000/450000.github.io/blob/master/images/popelka-cinderella.jpg)
+![obrázek popelky](/images/popelka-cinderella.jpg "Popelka")
 
 
 ## Otto Sutermeister ##
