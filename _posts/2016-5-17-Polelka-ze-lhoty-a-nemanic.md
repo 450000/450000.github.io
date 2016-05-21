@@ -41,4 +41,4 @@ a potom slavili svatbu, že svět krásnější neviděl.
 
 Dostupné [zde](http://pohadky.org/index.php?co=pohadka&pohadka=634)<br/>
 
-Server [pohádky.org](http://pohadky.org)
+Server [pohádky.org](http://pohadky.org/)
