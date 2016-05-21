@@ -2,7 +2,7 @@
 layout: post
 title: O lískových oříšcích
 ---
-![obrázek lískových oříšků](https://github.com/450000/450000.github.io/blob/master/images/orisky_liskove.jpg)
+![obrázek lískových oříšků](/images/orisky_liskove.jpg "lískové oříšky")
 
 
 ## Ludwig Bechstein ##
