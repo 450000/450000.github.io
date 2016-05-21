@@ -73,7 +73,7 @@ Rodiče i sestry o tomto šťastlivém osudu brzy zpravili a vzali je k sobě na
 
 Dostupné [zde]( http://pohadky.org/index.php?co=pohadka&pohadka=765)<br/>
 
-Server [pohádky.org](www.pohadky.org)
+Server  [pohádky.org](http://pohadky.org)
 
 
 
